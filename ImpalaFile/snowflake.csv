@@ -1,0 +1,6 @@
+,Region_Snowflake,Country_Snowflake,Item Type_Snowflake,Sales Channel_Snowflake,Order Priority_Snowflake,Order Date_Snowflake,Order ID_Snowflake,Ship Date_Snowflake,Units Sold_Snowflake,Unit Price_Snowflake,Unit Cost_Snowflake,Total Revenue_Snowflake,Total Cost_Snowflake,Total Profit_Snowflake
+1100018,Europe,Slovakia,Beverages,Offline,L,10/26/2016,174590194.0,12/4/2016,3973.0,47.45,31.79,188518.85,126301.67,62217.18
+1100019,Australia and Oceania,Papua New Guinea,Clothes,Offline,L,6/20/2011,647164094.0,7/14/2011,9092.0,109.28,35.84,993573.76,325857.28,667716.48
+1100020,Europe,Sweden,Personal Care,Online,C,4/13/2011,524006068.0,4/14/2011,3895.0,81.73,56.67,318338.35,220729.65,97608.7
+1100021,Europe,Lithuania,Baby Food,Online,H,11/30/2016,682745206.0,1/8/2017,8333.0,255.28,159.42,2127248.24,1328446.86,798801.38
+1100022,Europe,Ukraine,Clothes,Online,L,5/20/2017,205034339.0,7/5/2017,3072.0,109.28,35.84,335708.16,110100.48,225607.68

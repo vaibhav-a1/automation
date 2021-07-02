@@ -1,0 +1,6 @@
+,Region_Impala,Country_Impala,Item Type_Impala,Sales Channel_Impala,Order Priority_Impala,Order Date_Impala,Order ID_Impala,Ship Date_Impala,Units Sold_Impala,Unit Price_Impala,Unit Cost_Impala,Total Revenue_Impala,Total Cost_Impala,Total Profit_Impala
+4,Europe,Slovak,Beverages,Offline,L,10/26/2016,174590194.0,12/4/2016,3973.0,47.45,31.79,188518.85,126301.67,62217.18
+13,Australia and Oceania,Papua New Guinea,Clothes,Offline,L,6/20/,647164094.0,7/14/2011,9092.0,109.28,35.84,993573.76,325857.28,667716.48
+2938,Europe,Sweden,Personal Care,Online,C,4/13/2011,524006068.0,4/14/2011,3895.0,81.73,56.67,318338.35,220729.65,0.0
+4395,Europe,Lithuania,Baby Food,Online,H,11/30/2016,682745206.0,1/8/2017,8333.0,255.28,159.42,,1328446.86,798801.38
+1006290,Europe,Ukraine,Clothes,Online,L,5/20/2017,205034339.0,7/5/2017,3072.0,109.28,35.84,335708.16,1000111.0,225607.68
